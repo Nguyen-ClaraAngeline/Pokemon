@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Salamèche",
+    "type": "feu",
+    "speed": 1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "name": "Carapuce",
+    "type": "eau",
+    "speed": 0.8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "name": "Bulbizarre",
+    "type": "plante",
+    "speed": 0.6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  }
+]

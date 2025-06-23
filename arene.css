@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  background-image: url('/arene_pokemon/img/pokemon.jpg');
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#arena {
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  position: relative;
+  border: 2px solid #000;
+  overflow: hidden;
+
+  background-image: url('/arene_pokemon/img/arene.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.pokemon {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+}
